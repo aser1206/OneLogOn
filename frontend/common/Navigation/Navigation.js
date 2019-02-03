@@ -13,7 +13,7 @@ export default class Navigation extends React.Component {
           Contact
         </Link>
         <span className={s.spacer}> | </span>
-        <Link className={s.link} to="/login">
+        <Link className={s.link} to="/accounts/login/">
           Log in
         </Link>
         <span className={s.spacer}>or</span>
