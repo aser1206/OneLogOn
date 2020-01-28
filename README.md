@@ -1,6 +1,6 @@
 # Visitor and Employee Management System
 #### for Zachary Dowell at the Innovation Center
-
+The project might never be used, but at this point we do not care anymore
 ### Meet the team - OneBitOff
 - Aaron Hartigan
 - Victor Uvarov
@@ -68,7 +68,7 @@ Quit the server with CONTROL-C.
 Main contributors:
  - Aaron Hartigan
  - Sergey Karchmit
- - Victor Uvarov
+ - Victor Uvarov 
 #### Backend
 Built with Django.  
 Main contributors:
